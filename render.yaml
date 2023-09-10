@@ -12,7 +12,7 @@ services:
 
     buildCommand: pip3 install -U -r requirements.txt
 
-    repo: https://github.com/Joelkb/File-Forward-Bot.git # optional
+    repo: https://github.com/Kishan484/FORWARD_BOT # optional
 
     region: oregon # optional (defaults to oregon)
 
